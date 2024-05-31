@@ -1,0 +1,129 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.occupation2{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(187, 195, 192);
+    /* padding: 10px; */
+  }
+  .one3{
+    background-color: white;
+    width: 30vw;
+    height: 90vh;
+  }
+  .chat{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+.connect{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+  }
+  .vacancy{
+    padding: 10px;
+    width: 22vw;
+    border: 1px solid black;
+    margin-left: 10%;
+    justify-content: space-around;
+    border-radius: 20px;
+    border-right: 5px solid black ;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    background-color:rgb(231, 232, 253) ;
+  }
+  .vacancy >p{
+    font-size: 10px;
+    padding-bottom: 10px;
+  }
+  .news{
+    border: 1px solid black;
+    width: 22vw;
+    padding: 10px;
+    margin-left: 10%;
+    border-radius: 20px;
+    border-right: 5px solid black;
+    justify-content: space-around;
+    margin-bottom: 25px;
+    background-color: rgb(223, 243, 194);
+  }
+  .news >p{
+  padding-bottom: 10px;
+  font-size: 10px;
+  }
+  .magnify{
+    position: absolute;
+    margin-left: 19%;
+  }
+  .checklist{
+    position: absolute;
+    margin-left: 18%;
+  }
+  .hired{
+    margin-left: 10%;
+  }
+  .two3{
+    background-color: white;
+    width: 50vw;
+    height: 90vh;
+  }
+  .paul{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+  }
+  .mirror{
+    margin: 30px;
+    border: 1px solid ;
+    width:37vw ;
+    padding: 10px;
+    border-radius: 20px;
+    border-right: 10px solid black;
+    border-bottom: 8px solid black;
+    border-top-right-radius: 100px;
+    background-color: rgb(241, 255, 157);
+  }
+  
+  .rimage{
+    position: absolute;
+  margin-left: 50px;
+  margin-top: 20px;
+  }
+  .mirror >p{
+    margin-left: 10%;
+    font-size: smaller;
+  }
+  .rate{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    font-weight: lighter;
+  }
+  .years{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 25.5%;
+    margin-top: 1%;
+  }
+  .mirror >h3{
+    margin-left: 10%;
+    margin-top: 2%;
+  
+  }
+  .started{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 30%;
+  }
